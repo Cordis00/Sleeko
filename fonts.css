@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Gill Sans MT"; /* Имя шрифта */
+  src: url(fonts/GIL.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Helvetica"; /* Имя шрифта */
+  src: url(fonts/Helvetica.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Lucida Sans"; /* Имя шрифта */
+  src: url(fonts/LSANS.TTF); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Georgia"; /* Имя шрифта */
+  src: url(fonts/georgia.ttf); /* Путь к файлу со шрифтом */
+}
